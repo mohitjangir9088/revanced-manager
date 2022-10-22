@@ -22,7 +22,7 @@ class ManagerAPI {
   late SharedPreferences _prefs;
   String defaultApiUrl = 'https://releases.rvcd.win/';
   String defaultPatcherRepo = 'revanced/revanced-patcher';
-  String defaultPatchesRepo = 'revanced/revanced-patches';
+  String defaultPatchesRepo = 'mohitjangir9088/revanced-patches';
   String defaultIntegrationsRepo = 'revanced/revanced-integrations';
   String defaultCliRepo = 'revanced/revanced-cli';
   String defaultManagerRepo = 'revanced/revanced-manager';
