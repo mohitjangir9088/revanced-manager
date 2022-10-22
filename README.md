@@ -28,3 +28,4 @@ If you wish to discuss the Manager, a thread has been made under the [#developme
 5. Run `flutter pub get` in terminal
 6. Then `flutter packages pub run build_runner build --delete-conflicting-outputs` (Must be done on each git pull)
 7. To build release apk run `flutter build apk`
+
