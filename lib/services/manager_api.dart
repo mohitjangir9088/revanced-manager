@@ -21,10 +21,10 @@ class ManagerAPI {
   final String cliRepo = 'revanced-cli';
   late SharedPreferences _prefs;
   String defaultApiUrl = 'https://releases.rvcd.win/';
-  String defaultPatcherRepo = 'revanced/revanced-patcher';
+  String defaultPatcherRepo = 'mohitjangir9088/revanced-patcher';
   String defaultPatchesRepo = 'mohitjangir9088/revanced-patches';
   String defaultIntegrationsRepo = 'mohitjangir9088/revanced-integrations';
-  String defaultCliRepo = 'revanced/revanced-cli';
+  String defaultCliRepo = 'mohitjangir9088/revanced-cli';
   String defaultManagerRepo = 'mohitjangir9088/revanced-manager';
 
   Future<void> initialize() async {
